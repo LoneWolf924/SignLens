@@ -1,0 +1,6 @@
+{
+  "name": "ASL Vision Pro",
+  "description": "Real-time American Sign Language recognition using computer vision and deep learning.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
